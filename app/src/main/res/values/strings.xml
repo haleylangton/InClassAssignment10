@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InClassAssignment10</string>
+    <string name="facebook_app_id">232513620630667</string>
+    <string name="fb_login_protocol_scheme">fb232513620630667</string>
+</resources>
